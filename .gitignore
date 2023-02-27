@@ -15,7 +15,7 @@ tgcf.config.json
 todo
 *.ipynb
 
-/.github/archives
+.github/archives
 
 
 # Byte-compiled / optimized / DLL files
